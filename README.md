@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm izzie</h1>
 - 🔭 I’m currently working on [Project Saturn Cs2](https://discord.gg/KDaxudk74b)
 
-- 📚 I’m currently learning **english**
+- 📚 I’m currently learning **java and javascript**
 
-- 🎁 Past projects **rockhack,cracktap,froghookl**
+- 🎁 Past projects **unnamed windows optimizer, lua executor**
 
 - 🎉 hobbies **Gaming, developing, making projects**
-
-- 💬 Ask me about **Game hacking**
 
 
 <p align="left">
